@@ -1,0 +1,10 @@
+@media(max-width:540px){
+    .orange-div{width: 380px;margin-left:20px; }
+    
+}
+
+@media(min-width:540px){
+    .orange-div{margin-left:70px;}
+    
+}
+

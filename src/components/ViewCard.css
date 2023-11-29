@@ -1,0 +1,9 @@
+@media(max-width:540px){
+    .orange-trash{margin-left: 15px;}
+}
+
+@media(min-width:540px){
+    .orange-trash{margin-left: 35px;}
+}
+
+
